@@ -6,4 +6,4 @@
 
 std::vector<int> rabinKarp(const std::string& text, const std::string& pattern);
 
-#endif // RABIN_KARP_H
+#endif 

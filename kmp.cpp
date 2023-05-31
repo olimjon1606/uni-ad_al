@@ -48,6 +48,5 @@ std::vector<int> KMP(const std::string& text, const std::string& pattern) {
                 i++;
         }
     }
-
     return matches;
 }
