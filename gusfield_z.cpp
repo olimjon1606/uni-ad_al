@@ -28,7 +28,6 @@ std::vector<int> zFunction(const std::string& str) {
             }
         }
     }
-
     return Z;
 }
 
