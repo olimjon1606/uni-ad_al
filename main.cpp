@@ -8,7 +8,6 @@
 #include "rabin_karp.h"
 #include "gusfield_z.h"
 using namespace std;
-
 std::string generateRandomText(int length) {
     std::string text;
     for (int i = 0; i < length; ++i) {
